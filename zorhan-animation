@@ -12,7 +12,7 @@ s10s11s15s16 // Row 2: Columns 2,3 & 5,6
 s31s35     // Row 4: Columns 2,6
 s42s43s44  // Row 5: Columns 3,4,5
 
-// wait for some time
+// wait for about 3 seconds 
 w00c8
 e00a // Turn off led for all
 
@@ -94,3 +94,19 @@ p11e0fs06s26s46 // Column 7 : Row 1,3,4
 w0021
 p11
 p11
+
+// Back to smiley face
+e0fs06s16s36 // Column 7 : Row 1,2,4
+w0021
+p11e0fs06s16s46 // Column 7 : Row 1,2,5
+w0021
+p11s46 // Column 7 : Row 5
+w0021
+p11e0fs06s16s46 // Column 7 : Row 1,2,5
+w0021
+p11e0fs06s16s36 // Column 7 : Row 1,2,4
+w0021
+p11
+
+// wait for about 3 seconds 
+w00c8
