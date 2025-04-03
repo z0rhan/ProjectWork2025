@@ -80,6 +80,93 @@
 "p21"
 "p21"
 
+// 'E'
+"e0fsb8sb9sbasbbsbc"
+"w0007"
+"p21e0fsbcsbasb8"
+"w0007"
+"p21e0fsbcsbasb8"
+"w0007"
+"p21"
+"p21"
+"p21"
+"p21"
+
+// 3 LED spacing
+
+// 'T
+"e0fsbc"
+"w0007"
+"p21sbc"
+"w0007"
+"p21e0fsb8sb9sbasbbsbc"
+"w0007"
+"p21e0fsbc"
+"w0007"
+"p21e0fsbc"
+"w0007"
+"p21"
+"p21"
+
+// 'O'
+"e0fsb8sb9sbasbbsbc"
+"w0007"
+"p21e0fsbcsb8"
+"w0007"
+"p21e0fsb8sb9sbasbbsbc"
+"w0007"
+"p21"
+"p21"
+
+// 3 LED spacing
+
+// 'T
+"e0fsbc"
+"w0007"
+"p21sbc"
+"w0007"
+"p21e0fsb8sb9sbasbbsbc"
+"w0007"
+"p21e0fsbc"
+"w0007"
+"p21e0fsbc"
+"w0007"
+"p21"
+"p21"
+
+// 'A'
+"e0fsb8sb9sbasbbsbc"
+"w0007"
+"p21e0fsbcsba"
+"w0007"
+"p21e0fsb8sb9sbasbbsbc"
+"w0007"
+"p21"
+"p21"
+
+// 'M'
+"e0fsb8sb9sbasbbsbc"
+"w0007"
+"p21e0fsbb"
+"w0007"
+"p21e0fsba"
+"w0007"
+"p21e0fsbb"
+"w0007"
+"p21e0fsb8sb9sbasbbsbc"
+"w0007"
+"p21"
+"p21"
+
+// 'P'
+"e0fsb8sb9sbasbbsbc"
+"w0007"
+"p21e0fsbcsba"
+"w0007"
+"p21e0fsbcsbbsba"
+"w0007"
+"p21"
+"p21"
 
 // 'E'
 "e0fsb8sb9sbasbbsbc"
@@ -91,6 +178,25 @@
 "p21"
 "p21"
 
+// 'R'
+"e0fsb8sb9sbasbbsbc"
+"w0007"
+"p21e0fsbcsbasb9"
+"w0007"
+"p21e0fsbcsbbsbasb8"
+"w0007"
+"p21"
+"p21"
+
+// 'E'
+"e0fsb8sb9sbasbbsbc"
+"w0007"
+"p21e0fsbcsbasb8"
+"w0007"
+"p21e0fsbcsbasb8"
+"w0007"
+"p21"
+"p21"
 
 // Back to smiley face
 "p21e0fsbcsbbsb9"
