@@ -6,105 +6,105 @@
 "s78s88s98"
 
 // Wait for 3 seconds
-"w00c8"
+"w0085"
 "e00a" // turn of for all
 
 // Text slide in
 
 // 'W'
 "e0fsb8sb9sbasbbsbc"
-"w0021"
+"w0011"
 "p21e0fsb9"
-"w0021"
+"w0011"
 "p21e0fsba"
-"w0021"
+"w0011"
 "p21e0fsb9"
-"w0021"
+"w0011"
 "p21e0fsb8sb9sbasbbsbc"
-"w0021"
+"w0011"
 "p21"
 "p21"
 
 // 'E'
 "e0fsb8sb9sbasbbsbc"
-"w0021"
+"w0011"
 "p21e0fsbcsbasb8"
-"w0021"
+"w0011"
 "p21e0fsbcsbasb8"
-"w0021"
+"w0011"
 "p21"
 "p21"
 
 // 'L'
 "e0fsb8sb9sbasbbsbc"
-"w0021"
+"w0011"
 "p21e0fsb8"
-"w0021"
+"w0011"
 "p21e0fsb8"
-"w0021"
+"w0011"
 "p21"
 "p21"
 
 // 'C'
 "e0fsb8sb9sbasbbsbc"
-"w0021"
+"w0011"
 "p21e0fsbcsb8"
-"w0021"
+"w0011"
 "p21e0fsbcsb8"
-"w0021"
+"w0011"
 "p21"
 "p21"
 
 // 'O'
 "e0fsb8sb9sbasbbsbc"
-"w0021"
-"p21e0fbcsb8"
-"w0021"
+"w0011"
+"p21e0fsbcsb8"
+"w0011"
 "p21e0fsb8sb9sbasbbsbc"
-"w0021"
+"w0011"
 "p21"
 "p21"
 
 
 // 'M'
 "e0fsb8sb9sbasbbsbc"
-"w0021"
+"w0011"
 "p21e0fsbb"
-"w0021"
+"w0011"
 "p21e0fsba"
-"w0021"
+"w0011"
 "p21e0fsbb"
-"w0021"
+"w0011"
 "p21e0fsb8sb9sbasbbsbc"
-"w0021"
+"w0011"
 "p21"
 "p21"
 
 
 // 'E'
 "e0fsb8sb9sbasbbsbc"
-"w0021"
+"w0011"
 "p21e0fsbcsbasb8"
-"w0021"
+"w0011"
 "p21e0fsbcsbasb8"
-"w0021"
+"w0011"
 "p21"
 "p21"
 
 
 // Back to smiley face
 "p21e0fsbcsbbsb9"
-"w0021"
+"w0011"
 "p21e0fsbcsbbsb8"
-"w0021"
+"w0011"
 "p21e0fsb8"
-"w0021"
+"w0011"
 "p21e0fsbcsbbsb8"
-"w0021"
+"w0011"
 "p21e0fsbcsbbsb9"
-"w0021"
+"w0011"
 "p21"
 
 // Blink for sometime
 "e5fa"
-"w00c8"
+"w0085"
